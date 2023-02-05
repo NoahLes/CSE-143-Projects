@@ -1,5 +1,4 @@
 
-// Noah Lesure
 // Class GuitarString creates a guitar string that can be plucked to 
 // create a sound that begins fade as time goes on.
 import java.util.*;
