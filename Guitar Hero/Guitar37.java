@@ -1,8 +1,4 @@
 
-// Noah Lesure
-// CSE 143 AF 
-// TA: Ido Avnon
-// Homework #2
 // Class Guitar37 creates 37 different guitar strings that each produce a different sound.
 // Each guitar string can be played if the client gives the pitch of the note or the character
 // the note is correlated to. The time of the song being created is tracked so that the client
