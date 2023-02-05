@@ -1,7 +1,4 @@
-// Noah Lesure
-// CSE 143 AF
-// TA: Ido Avnon
-// Assignment 7
+
 // AnagramSolver uses a dictionary to find all combinations of words
 // that have the same letters as a given phrase. A given number will
 // determine how many words combined share the same letters as the phrase 
