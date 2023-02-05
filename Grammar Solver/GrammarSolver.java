@@ -1,7 +1,4 @@
-// Noah Lesure
-// CSE 143 AF
-// TA: Ido Avnon
-// Assignment 5
+
 // GrammarSolver splits a string into a single grammar word and rules for the 
 // grammar word. The rules for the grammar word can be normal words or other
 // grammar words. When given a grammar word and a number of times for a phrase
