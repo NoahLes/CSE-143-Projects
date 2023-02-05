@@ -1,8 +1,4 @@
 
-// Noah Lesure
-// CSE 143 AF
-// TA: Ido Avnon
-// Homework 7
 // QuestionNode creates a binary tree that is constructed based on yes
 // or no questions. 
 public class QuestionNode {
