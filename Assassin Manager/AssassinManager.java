@@ -1,8 +1,4 @@
 
-// Noah Lesure
-// CSE 143 AF
-// TA: Ido Avnon
-// Homework #3
 // AssassinManager allows a client to manage a game of assassin where  
 // each person in the game of assassin has a certain target that they are  
 // trying to assassinate. The client will be told who a target is being 
