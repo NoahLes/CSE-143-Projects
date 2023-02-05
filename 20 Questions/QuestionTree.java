@@ -1,8 +1,4 @@
 
-// Noah Lesure
-// CE 143 AF 
-// TA: Ido Avnon
-// Homework 7
 // QuestionTree creates a guessing game using binary trees that revolves
 // around the user answering yes or no questions. If the computer guesses the
 // wrong object, the user will be asked what the object was that they were
