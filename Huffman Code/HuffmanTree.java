@@ -1,8 +1,4 @@
 
-// Noah Lesure
-// CSE 143 AF
-// TA: Ido Avnon
-// Assignment 8
 // HuffmanTree can compress data into a smaller form of the original data.
 // It can also decompress data and return it back to its original text form.
 import java.util.*;
