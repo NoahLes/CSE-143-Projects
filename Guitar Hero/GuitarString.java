@@ -1,8 +1,5 @@
 
 // Noah Lesure
-// CSE 143 AF 
-// TA: Ido Avnon
-// Homework #2
 // Class GuitarString creates a guitar string that can be plucked to 
 // create a sound that begins fade as time goes on.
 import java.util.*;
