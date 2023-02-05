@@ -1,7 +1,4 @@
-// Noah Lesure
-// CSE 143 AF
-// TA: Ido Avnon
-// Assignment 4
+
 // HangmanManager finds patterns in the set of possible guess words as the user
 // guesses letters. words with the same pattern of guessed letters are
 // grouped and the largest group is used as the set of possible guess words.
