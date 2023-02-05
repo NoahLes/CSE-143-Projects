@@ -1,7 +1,4 @@
-// Noah Lesure
-// CSE 143 AF
-// TA: Ido Avnon
-// Assignment 8
+
 // HuffmanNode creates a binary tree that is constructed based on 
 // the binary data of each node.
 public class HuffmanNode implements Comparable<HuffmanNode>{
